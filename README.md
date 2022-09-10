@@ -4,7 +4,13 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Fully-functioning clone of Instagram. Implemented Tailwind CSS for responsive user interface design, Firebase V.9 for storage API and image uploading, NextAuth.js for custom user Google authentication screen, and Recoil for state management.
+
+## Updates
+
+## Problems
+These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
+
 
 ## Getting Started
 
@@ -26,57 +32,28 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+## Issues and Discussions
+Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
 
 ## Version History
-
-* 0.2
+* 10.2
+    * Deployed on Vercel
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
+    * Adjusted responsive UI for all screen sizes
+* 10.1
     * Initial Release
 
-## License
+## Acknowledgements
+Project inspired by [Sonny Sangha}(https://github.com/sonnysangha)
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+[My LinkedIn](https://www.linkedin.com/in/ericchenatl/)<br/>
+Email me at
+```
+echen7266@gmail.com
+```
+if you have any additional questions or concerns.
 
 [home-page]: https://i.imgur.com/ws017OA.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
