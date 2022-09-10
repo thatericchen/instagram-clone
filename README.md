@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Simple overview of use/purpose.
+![home-page]
 
 ## Description
 
