@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .navBtn {
+        @apply hidden h-6 md:inline-flex 
+        cursor-pointer;
+    }
+
+    .btn {
+        @apply h-7 cursor-pointer;
+    }
+}
