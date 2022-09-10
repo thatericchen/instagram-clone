@@ -11,7 +11,18 @@ Fully-functioning clone of Instagram's feed page. Implements Tailwind CSS for re
 
 ## Problems
 These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
-* 
+* Improve feed UI on different size screens
+* Improve signin page UI on smaller screens
+* Implement video uploading
+* Implement @ and # functionalities
+* Implement bookmark animation
+* Implement sharing functionality
+* Add messages page
+* Add friends list page
+* Allow click on comment button to prompt user to comment
+
+## Issues and Discussions
+Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
 
 ## Dependencies
 
@@ -23,9 +34,6 @@ These are the current problems being considered for improvement or addition to t
 * Heroicons
 * Headless UI
 * Recoil
-
-## Issues and Discussions
-Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
 
 ## Version History
 * 1.02
