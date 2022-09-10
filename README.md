@@ -7,7 +7,7 @@ Fully-functioning clone of Instagram's feed page. Implements Tailwind CSS for re
 ## Updates
 * Fixed internal server error bug when users try to sign into their Google account
 * Changed modal component design
-* Adjusted responsive UI design by collapsing suggestions component and centering posts component in medium-sized or smaller screens
+* Adjusted responsive UI design by collapsing suggestions component and resizing posts component in medium-sized or smaller screens
 
 ## Problems
 These are the current problems being considered for improvement or addition to the program. The following issues/solutions are in no particular order.
