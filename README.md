@@ -34,11 +34,11 @@ code blocks for commands
 Please feel free to send bugs and issues in the Issues tab. If you have GUI suggestions or any other suggestions, please add them in the Discussions tab.
 
 ## Version History
-* 10.2
+* 1.02
     * Deployed on Vercel
     * Various bug fixes and optimizations
     * Adjusted responsive UI for all screen sizes
-* 10.1
+* 1.01
     * Initial Release
 
 ## Acknowledgements
