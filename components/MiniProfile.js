@@ -14,7 +14,7 @@ function MiniProfile() {
 
         <div className = 'flex-1 mx-3.5'>
           <h2 className = 'font-semibold text-[15px] cursor-pointer'>{session?.user?.username}</h2>
-          <h3 className = 'text-[13px] text-gray-400'>Eric Chen</h3>
+          <h3 className = 'text-[13px] text-gray-400'>Welcome to Instagram</h3>
         </div>
 
         <button onClick = {signOut} className = 'text-blue-400 text-xs font-bold'>Switch</button>
