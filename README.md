@@ -2,8 +2,6 @@
 
 ![home-page]
 
-## Description
-
 Fully-functioning clone of Instagram. Implemented Tailwind CSS for responsive user interface design, Firebase V.9 for storage API and image uploading, NextAuth.js for custom user Google authentication screen, and Recoil for state management.
 
 ## Updates
