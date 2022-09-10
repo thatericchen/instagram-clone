@@ -11,7 +11,7 @@ function signin({ providers }) {
 
       <img className = "w-80" src = "https://links.papareact.com/ocw" alt = '' />
       <p className = 'font-xs italic'>
-        This is not a REAL app, it is built for personal educational purposes only.
+        Not a real app.
       </p>
       
       <div className = 'mt-40'>
