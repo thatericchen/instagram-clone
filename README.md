@@ -21,6 +21,7 @@ These are the current problems being considered for improvement or addition to t
 
 ## Acknowledgements
 Project inspired by [Sonny Sangha](https://github.com/sonnysangha)
+
 Eric Chen
 
 [home-page]: https://i.imgur.com/ws017OA.png
